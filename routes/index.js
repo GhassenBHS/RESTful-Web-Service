@@ -1,0 +1,18 @@
+
+/*
+ * GET home page.
+ */
+
+/*exports.index = function(req, res){
+  res.render('index', { title: 'Express' });
+};*/
+
+var path = require("path");
+
+exports.index = function(req, res){
+  res.render('index', { title: "Start Bootstrap"});
+};
+
+exports.ping = function(req, res){
+  res.send("pong!", 200);
+};

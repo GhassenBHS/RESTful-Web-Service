@@ -1,0 +1,386 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'ejs' ]
+2 info using npm@2.14.20
+3 info using node@v4.4.1
+4 verbose install initial load of E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\package.json
+5 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\async\package.json
+6 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\basic-auth\package.json
+7 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\bluebird\package.json
+8 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\body-parser\package.json
+9 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\errorhandler\package.json
+10 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\express\package.json
+11 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\express-cache-control\package.json
+12 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\fs\package.json
+13 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\gridfs-stream\package.json
+14 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\http\package.json
+15 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\https\package.json
+16 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\jade\package.json
+17 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\leveldown\package.json
+18 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\levelup\package.json
+19 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\method-override\package.json
+20 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\mongoose\package.json
+21 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\mongoose-bluebird-utils\package.json
+22 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\morgan\package.json
+23 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport\package.json
+24 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-facebook\package.json
+25 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-google-oauth\package.json
+26 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-google-oauth2\package.json
+27 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-http\package.json
+28 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-linkedin\package.json
+29 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\passport-linkedin-oauth2\package.json
+30 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\url\package.json
+31 verbose installManyTop reading scoped package data from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\util\package.json
+32 info package.json express-cache-control@1.0.2 homepage field must start with a protocol.
+33 info package.json express-cache-control@1.0.2 No license field.
+34 info package.json fs@0.0.2 fs is also the name of a node core module.
+35 info package.json fs@0.0.2 No description
+36 info package.json fs@0.0.2 No repository field.
+37 info package.json http@0.0.0 http is also the name of a node core module.
+38 info package.json http@0.0.0 No description
+39 info package.json http@0.0.0 No repository field.
+40 info package.json http@0.0.0 No README data
+41 info package.json https@1.0.0 https is also the name of a node core module.
+42 info package.json https@1.0.0 No repository field.
+43 info package.json https@1.0.0 No README data
+44 info package.json passport@0.3.2 No README data
+45 info package.json util@0.10.3 util is also the name of a node core module.
+46 info package.json express@3.2.6 No license field.
+47 info package.json gridfs-stream@1.1.1 No license field.
+48 info package.json mongoose-bluebird-utils@0.0.11 No license field.
+49 info package.json passport-http@0.3.0 No license field.
+50 info package.json passport-linkedin@1.0.0 No license field.
+51 info package.json url@0.11.0 url is also the name of a node core module.
+52 verbose readDependencies loading dependencies from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\package.json
+53 silly cache add args [ 'ejs', null ]
+54 verbose cache add spec ejs
+55 silly cache add parsed spec Result {
+55 silly cache add   raw: 'ejs',
+55 silly cache add   scope: null,
+55 silly cache add   name: 'ejs',
+55 silly cache add   rawSpec: '',
+55 silly cache add   spec: 'latest',
+55 silly cache add   type: 'tag' }
+56 silly addNamed ejs@latest
+57 verbose addNamed "latest" is being treated as a dist-tag for ejs
+58 info addNameTag [ 'ejs', 'latest' ]
+59 silly mapToRegistry name ejs
+60 silly mapToRegistry using default registry
+61 silly mapToRegistry registry https://registry.npmjs.org/
+62 silly mapToRegistry uri https://registry.npmjs.org/ejs
+63 verbose addNameTag registry:https://registry.npmjs.org/ejs not in flight; fetching
+64 verbose request uri https://registry.npmjs.org/ejs
+65 verbose request no auth needed
+66 info attempt registry request try #1 at 5:46:06 PM
+67 verbose request id c038ff5b4bad546a
+68 http request GET https://registry.npmjs.org/ejs
+69 http 200 https://registry.npmjs.org/ejs
+70 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+70 verbose headers   etag: '"DLRHUVR110RUXLRI3QWXGBRLK"',
+70 verbose headers   'content-type': 'application/json',
+70 verbose headers   'content-encoding': 'gzip',
+70 verbose headers   'cache-control': 'max-age=300',
+70 verbose headers   'content-length': '9128',
+70 verbose headers   'accept-ranges': 'bytes',
+70 verbose headers   date: 'Sun, 08 May 2016 15:46:08 GMT',
+70 verbose headers   via: '1.1 varnish',
+70 verbose headers   age: '42',
+70 verbose headers   connection: 'keep-alive',
+70 verbose headers   'x-served-by': 'cache-lcy1123-LCY',
+70 verbose headers   'x-cache': 'HIT',
+70 verbose headers   'x-cache-hits': '2',
+70 verbose headers   'x-timer': 'S1462722368.197937,VS0,VE0',
+70 verbose headers   vary: 'Accept-Encoding' }
+71 silly get cb [ 200,
+71 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+71 silly get     etag: '"DLRHUVR110RUXLRI3QWXGBRLK"',
+71 silly get     'content-type': 'application/json',
+71 silly get     'content-encoding': 'gzip',
+71 silly get     'cache-control': 'max-age=300',
+71 silly get     'content-length': '9128',
+71 silly get     'accept-ranges': 'bytes',
+71 silly get     date: 'Sun, 08 May 2016 15:46:08 GMT',
+71 silly get     via: '1.1 varnish',
+71 silly get     age: '42',
+71 silly get     connection: 'keep-alive',
+71 silly get     'x-served-by': 'cache-lcy1123-LCY',
+71 silly get     'x-cache': 'HIT',
+71 silly get     'x-cache-hits': '2',
+71 silly get     'x-timer': 'S1462722368.197937,VS0,VE0',
+71 silly get     vary: 'Accept-Encoding' } ]
+72 verbose get saving ejs to C:\Users\SPEED\AppData\Roaming\npm-cache\registry.npmjs.org\ejs\.cache.json
+73 verbose correctMkdir C:\Users\SPEED\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+74 silly addNameTag next cb for ejs with tag latest
+75 silly addNamed ejs@2.4.1
+76 verbose addNamed "2.4.1" is a plain semver version for ejs
+77 silly mapToRegistry name ejs
+78 silly mapToRegistry using default registry
+79 silly mapToRegistry registry https://registry.npmjs.org/
+80 silly mapToRegistry uri https://registry.npmjs.org/ejs
+81 verbose addRemoteTarball https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz not in flight; adding
+82 verbose addRemoteTarball [ 'https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz',
+82 verbose addRemoteTarball   '82e15b1b2a1f948b18097476ba2bd7c66f4d1566' ]
+83 info retry fetch attempt 1 at 5:46:07 PM
+84 info attempt registry request try #1 at 5:46:07 PM
+85 http fetch GET https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz
+86 http fetch 200 https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz
+87 silly fetchAndShaCheck shasum 82e15b1b2a1f948b18097476ba2bd7c66f4d1566
+88 verbose addTmpTarball C:\Users\SPEED\AppData\Local\Temp\npm-3616-29bcd3ad\registry.npmjs.org\ejs\-\ejs-2.4.1.tgz not in flight; adding
+89 verbose addTmpTarball already have metadata; skipping unpack for ejs@2.4.1
+90 verbose correctMkdir C:\Users\SPEED\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+91 silly cache afterAdd ejs@2.4.1
+92 verbose afterAdd C:\Users\SPEED\AppData\Roaming\npm-cache\ejs\2.4.1\package\package.json not in flight; writing
+93 verbose correctMkdir C:\Users\SPEED\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+94 verbose afterAdd C:\Users\SPEED\AppData\Roaming\npm-cache\ejs\2.4.1\package\package.json written
+95 silly install resolved [ { name: 'ejs',
+95 silly install resolved     description: 'Embedded JavaScript templates',
+95 silly install resolved     keywords: [ 'template', 'engine', 'ejs' ],
+95 silly install resolved     version: '2.4.1',
+95 silly install resolved     author:
+95 silly install resolved      { name: 'Matthew Eernisse',
+95 silly install resolved        email: 'mde@fleegix.org',
+95 silly install resolved        url: 'http://fleegix.org' },
+95 silly install resolved     contributors: [ [Object] ],
+95 silly install resolved     license: 'Apache-2.0',
+95 silly install resolved     main: './lib/ejs.js',
+95 silly install resolved     repository: { type: 'git', url: 'git://github.com/mde/ejs.git' },
+95 silly install resolved     bugs: { url: 'https://github.com/mde/ejs/issues' },
+95 silly install resolved     homepage: 'https://github.com/mde/ejs',
+95 silly install resolved     dependencies: {},
+95 silly install resolved     devDependencies:
+95 silly install resolved      { browserify: '^8.0.3',
+95 silly install resolved        istanbul: '~0.3.5',
+95 silly install resolved        jake: '^8.0.0',
+95 silly install resolved        jsdoc: '^3.3.0-beta1',
+95 silly install resolved        'lru-cache': '^2.5.0',
+95 silly install resolved        mocha: '^2.1.0',
+95 silly install resolved        rimraf: '^2.2.8',
+95 silly install resolved        'uglify-js': '^2.4.16' },
+95 silly install resolved     engines: { node: '>=0.10.0' },
+95 silly install resolved     scripts:
+95 silly install resolved      { test: 'mocha',
+95 silly install resolved        coverage: 'istanbul cover node_modules/mocha/bin/_mocha',
+95 silly install resolved        doc: 'rimraf out && jsdoc -c jsdoc.json lib/* docs/jsdoc/*',
+95 silly install resolved        devdoc: 'rimraf out && jsdoc -p -c jsdoc.json lib/* docs/jsdoc/*' },
+95 silly install resolved     _id: 'ejs@2.4.1',
+95 silly install resolved     _shasum: '82e15b1b2a1f948b18097476ba2bd7c66f4d1566',
+95 silly install resolved     _resolved: 'https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz',
+95 silly install resolved     _from: 'ejs@latest',
+95 silly install resolved     _npmVersion: '2.10.1',
+95 silly install resolved     _nodeVersion: '0.12.4',
+95 silly install resolved     _npmUser: { name: 'mde', email: 'mde@fleegix.org' },
+95 silly install resolved     maintainers: [ [Object], [Object] ],
+95 silly install resolved     dist:
+95 silly install resolved      { shasum: '82e15b1b2a1f948b18097476ba2bd7c66f4d1566',
+95 silly install resolved        tarball: 'https://registry.npmjs.org/ejs/-/ejs-2.4.1.tgz' },
+95 silly install resolved     directories: {} } ]
+96 info install ejs@2.4.1 into E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService
+97 info installOne ejs@2.4.1
+98 verbose installOne of ejs to E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService not in flight; installing
+99 verbose correctMkdir C:\Users\SPEED\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+100 verbose lock using C:\Users\SPEED\AppData\Roaming\npm-cache\_locks\ejs-73497fd56acaf664.lock for E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+101 silly install write writing ejs 2.4.1 to E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+102 verbose unbuild node_modules\ejs
+103 silly gentlyRm E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs is being purged from base E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService
+104 verbose gentlyRm don't care about contents; nuking E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+105 verbose tar unpack C:\Users\SPEED\AppData\Roaming\npm-cache\ejs\2.4.1\package.tgz
+106 verbose tar unpacking to E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+107 silly gentlyRm E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs is being purged
+108 verbose gentlyRm don't care about contents; nuking E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+109 silly gunzTarPerm modes [ '777', '666' ]
+110 silly gunzTarPerm extractEntry
+111 silly gunzTarPerm modified mode [ '', 493, 511 ]
+112 silly gunzTarPerm extractEntry ejs.js
+113 silly gunzTarPerm modified mode [ 'ejs.js', 420, 438 ]
+114 silly gunzTarPerm extractEntry ejs.min.js
+115 silly gunzTarPerm modified mode [ 'ejs.min.js', 420, 438 ]
+116 silly gunzTarPerm extractEntry Jakefile
+117 silly gunzTarPerm modified mode [ 'Jakefile', 420, 438 ]
+118 silly gunzTarPerm extractEntry lib/
+119 silly gunzTarPerm modified mode [ 'lib/', 493, 511 ]
+120 silly gunzTarPerm extractEntry package.json
+121 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+122 silly gunzTarPerm extractEntry README.md
+123 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+124 silly gunzTarPerm extractEntry test/
+125 silly gunzTarPerm modified mode [ 'test/', 493, 511 ]
+126 silly gunzTarPerm extractEntry test/ejs.js
+127 silly gunzTarPerm modified mode [ 'test/ejs.js', 420, 438 ]
+128 silly gunzTarPerm extractEntry test/fixtures/
+129 silly gunzTarPerm modified mode [ 'test/fixtures/', 493, 511 ]
+130 silly gunzTarPerm extractEntry test/mocha.opts
+131 silly gunzTarPerm modified mode [ 'test/mocha.opts', 420, 438 ]
+132 silly gunzTarPerm extractEntry test/tmp/
+133 silly gunzTarPerm modified mode [ 'test/tmp/', 493, 511 ]
+134 silly gunzTarPerm extractEntry test/tmp/include.ejs
+135 silly gunzTarPerm modified mode [ 'test/tmp/include.ejs', 420, 438 ]
+136 silly gunzTarPerm extractEntry test/tmp/include_preprocessor.ejs
+137 silly gunzTarPerm modified mode [ 'test/tmp/include_preprocessor.ejs', 420, 438 ]
+138 silly gunzTarPerm extractEntry test/tmp/renderFile.ejs
+139 silly gunzTarPerm modified mode [ 'test/tmp/renderFile.ejs', 420, 438 ]
+140 silly gunzTarPerm extractEntry test/fixtures/backslash.ejs
+141 silly gunzTarPerm modified mode [ 'test/fixtures/backslash.ejs', 420, 438 ]
+142 silly gunzTarPerm extractEntry test/fixtures/backslash.html
+143 silly gunzTarPerm modified mode [ 'test/fixtures/backslash.html', 420, 438 ]
+144 silly gunzTarPerm extractEntry test/fixtures/comments.ejs
+145 silly gunzTarPerm modified mode [ 'test/fixtures/comments.ejs', 420, 438 ]
+146 silly gunzTarPerm extractEntry test/fixtures/comments.html
+147 silly gunzTarPerm modified mode [ 'test/fixtures/comments.html', 420, 438 ]
+148 silly gunzTarPerm extractEntry test/fixtures/consecutive-tags.ejs
+149 silly gunzTarPerm modified mode [ 'test/fixtures/consecutive-tags.ejs', 420, 438 ]
+150 silly gunzTarPerm extractEntry test/fixtures/consecutive-tags.html
+151 silly gunzTarPerm modified mode [ 'test/fixtures/consecutive-tags.html', 420, 438 ]
+152 silly gunzTarPerm extractEntry test/fixtures/double-quote.ejs
+153 silly gunzTarPerm modified mode [ 'test/fixtures/double-quote.ejs', 420, 438 ]
+154 silly gunzTarPerm extractEntry test/fixtures/double-quote.html
+155 silly gunzTarPerm modified mode [ 'test/fixtures/double-quote.html', 420, 438 ]
+156 silly gunzTarPerm extractEntry test/fixtures/error.ejs
+157 silly gunzTarPerm modified mode [ 'test/fixtures/error.ejs', 420, 438 ]
+158 silly gunzTarPerm extractEntry test/fixtures/error.out
+159 silly gunzTarPerm modified mode [ 'test/fixtures/error.out', 420, 438 ]
+160 silly gunzTarPerm extractEntry test/fixtures/fail.ejs
+161 silly gunzTarPerm modified mode [ 'test/fixtures/fail.ejs', 420, 438 ]
+162 silly gunzTarPerm extractEntry test/fixtures/hello-world.ejs
+163 silly gunzTarPerm modified mode [ 'test/fixtures/hello-world.ejs', 420, 438 ]
+164 silly gunzTarPerm extractEntry test/fixtures/include-abspath.ejs
+165 silly gunzTarPerm modified mode [ 'test/fixtures/include-abspath.ejs', 420, 438 ]
+166 silly gunzTarPerm extractEntry test/fixtures/include-simple.ejs
+167 silly gunzTarPerm modified mode [ 'test/fixtures/include-simple.ejs', 420, 438 ]
+168 silly gunzTarPerm extractEntry test/fixtures/include-simple.html
+169 silly gunzTarPerm modified mode [ 'test/fixtures/include-simple.html', 420, 438 ]
+170 silly gunzTarPerm extractEntry test/fixtures/include.css.ejs
+171 silly gunzTarPerm modified mode [ 'test/fixtures/include.css.ejs', 420, 438 ]
+172 silly gunzTarPerm extractEntry test/fixtures/include.css.html
+173 silly gunzTarPerm modified mode [ 'test/fixtures/include.css.html', 420, 438 ]
+174 silly gunzTarPerm extractEntry test/fixtures/include.ejs
+175 silly gunzTarPerm modified mode [ 'test/fixtures/include.ejs', 420, 438 ]
+176 silly gunzTarPerm extractEntry test/fixtures/include.html
+177 silly gunzTarPerm modified mode [ 'test/fixtures/include.html', 420, 438 ]
+178 silly gunzTarPerm extractEntry test/fixtures/include_cache.ejs
+179 silly gunzTarPerm modified mode [ 'test/fixtures/include_cache.ejs', 420, 438 ]
+180 silly gunzTarPerm extractEntry test/fixtures/include_cache.html
+181 silly gunzTarPerm modified mode [ 'test/fixtures/include_cache.html', 420, 438 ]
+182 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor.css.ejs
+183 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor.css.ejs', 420, 438 ]
+184 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor.css.html
+185 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor.css.html', 420, 438 ]
+186 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor.ejs
+187 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor.ejs', 420, 438 ]
+188 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor.html
+189 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor.html', 420, 438 ]
+190 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor_cache.ejs
+191 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor_cache.ejs', 420, 438 ]
+192 silly gunzTarPerm extractEntry test/fixtures/include_preprocessor_cache.html
+193 silly gunzTarPerm modified mode [ 'test/fixtures/include_preprocessor_cache.html', 420, 438 ]
+194 silly gunzTarPerm extractEntry test/fixtures/includes/
+195 silly gunzTarPerm modified mode [ 'test/fixtures/includes/', 493, 511 ]
+196 silly gunzTarPerm extractEntry test/fixtures/literal.ejs
+197 silly gunzTarPerm modified mode [ 'test/fixtures/literal.ejs', 420, 438 ]
+198 silly gunzTarPerm extractEntry test/fixtures/literal.html
+199 silly gunzTarPerm modified mode [ 'test/fixtures/literal.html', 420, 438 ]
+200 silly gunzTarPerm extractEntry test/fixtures/menu.ejs
+201 silly gunzTarPerm modified mode [ 'test/fixtures/menu.ejs', 420, 438 ]
+202 silly gunzTarPerm extractEntry test/fixtures/menu.html
+203 silly gunzTarPerm modified mode [ 'test/fixtures/menu.html', 420, 438 ]
+204 silly gunzTarPerm extractEntry test/fixtures/menu_preprocessor.ejs
+205 silly gunzTarPerm modified mode [ 'test/fixtures/menu_preprocessor.ejs', 420, 438 ]
+206 silly gunzTarPerm extractEntry test/fixtures/menu_preprocessor.html
+207 silly gunzTarPerm modified mode [ 'test/fixtures/menu_preprocessor.html', 420, 438 ]
+208 silly gunzTarPerm extractEntry test/fixtures/menu_var.ejs
+209 silly gunzTarPerm modified mode [ 'test/fixtures/menu_var.ejs', 420, 438 ]
+210 silly gunzTarPerm extractEntry test/fixtures/messed.ejs
+211 silly gunzTarPerm modified mode [ 'test/fixtures/messed.ejs', 420, 438 ]
+212 silly gunzTarPerm extractEntry test/fixtures/messed.html
+213 silly gunzTarPerm modified mode [ 'test/fixtures/messed.html', 420, 438 ]
+214 silly gunzTarPerm extractEntry test/fixtures/newlines.ejs
+215 silly gunzTarPerm modified mode [ 'test/fixtures/newlines.ejs', 420, 438 ]
+216 silly gunzTarPerm extractEntry test/fixtures/newlines.html
+217 silly gunzTarPerm modified mode [ 'test/fixtures/newlines.html', 420, 438 ]
+218 silly gunzTarPerm extractEntry test/fixtures/newlines.mixed.ejs
+219 silly gunzTarPerm modified mode [ 'test/fixtures/newlines.mixed.ejs', 420, 438 ]
+220 silly gunzTarPerm extractEntry test/fixtures/newlines.mixed.html
+221 silly gunzTarPerm modified mode [ 'test/fixtures/newlines.mixed.html', 420, 438 ]
+222 silly gunzTarPerm extractEntry test/fixtures/no.newlines.ejs
+223 silly gunzTarPerm modified mode [ 'test/fixtures/no.newlines.ejs', 420, 438 ]
+224 silly gunzTarPerm extractEntry test/fixtures/no.newlines.error.ejs
+225 silly gunzTarPerm modified mode [ 'test/fixtures/no.newlines.error.ejs', 420, 438 ]
+226 silly gunzTarPerm extractEntry test/fixtures/no.newlines.html
+227 silly gunzTarPerm modified mode [ 'test/fixtures/no.newlines.html', 420, 438 ]
+228 silly gunzTarPerm extractEntry test/fixtures/no.semicolons.ejs
+229 silly gunzTarPerm modified mode [ 'test/fixtures/no.semicolons.ejs', 420, 438 ]
+230 silly gunzTarPerm extractEntry test/fixtures/no.semicolons.html
+231 silly gunzTarPerm modified mode [ 'test/fixtures/no.semicolons.html', 420, 438 ]
+232 silly gunzTarPerm extractEntry test/fixtures/para.ejs
+233 silly gunzTarPerm modified mode [ 'test/fixtures/para.ejs', 420, 438 ]
+234 silly gunzTarPerm extractEntry test/fixtures/pet.ejs
+235 silly gunzTarPerm modified mode [ 'test/fixtures/pet.ejs', 420, 438 ]
+236 silly gunzTarPerm extractEntry test/fixtures/rmWhitespace.ejs
+237 silly gunzTarPerm modified mode [ 'test/fixtures/rmWhitespace.ejs', 420, 438 ]
+238 silly gunzTarPerm extractEntry test/fixtures/rmWhitespace.html
+239 silly gunzTarPerm modified mode [ 'test/fixtures/rmWhitespace.html', 420, 438 ]
+240 silly gunzTarPerm extractEntry test/fixtures/single-quote.ejs
+241 silly gunzTarPerm modified mode [ 'test/fixtures/single-quote.ejs', 420, 438 ]
+242 silly gunzTarPerm extractEntry test/fixtures/single-quote.html
+243 silly gunzTarPerm modified mode [ 'test/fixtures/single-quote.html', 420, 438 ]
+244 silly gunzTarPerm extractEntry test/fixtures/space-and-tab-slurp.ejs
+245 silly gunzTarPerm modified mode [ 'test/fixtures/space-and-tab-slurp.ejs', 420, 438 ]
+246 silly gunzTarPerm extractEntry test/fixtures/space-and-tab-slurp.html
+247 silly gunzTarPerm modified mode [ 'test/fixtures/space-and-tab-slurp.html', 420, 438 ]
+248 silly gunzTarPerm extractEntry test/fixtures/style.css
+249 silly gunzTarPerm modified mode [ 'test/fixtures/style.css', 420, 438 ]
+250 silly gunzTarPerm extractEntry test/fixtures/user-no-with.ejs
+251 silly gunzTarPerm modified mode [ 'test/fixtures/user-no-with.ejs', 420, 438 ]
+252 silly gunzTarPerm extractEntry test/fixtures/user.ejs
+253 silly gunzTarPerm modified mode [ 'test/fixtures/user.ejs', 420, 438 ]
+254 silly gunzTarPerm extractEntry test/fixtures/with-context.ejs
+255 silly gunzTarPerm modified mode [ 'test/fixtures/with-context.ejs', 420, 438 ]
+256 silly gunzTarPerm extractEntry test/fixtures/includes/bom.ejs
+257 silly gunzTarPerm modified mode [ 'test/fixtures/includes/bom.ejs', 420, 438 ]
+258 silly gunzTarPerm extractEntry test/fixtures/includes/menu/
+259 silly gunzTarPerm modified mode [ 'test/fixtures/includes/menu/', 493, 511 ]
+260 silly gunzTarPerm extractEntry test/fixtures/includes/menu-item.ejs
+261 silly gunzTarPerm modified mode [ 'test/fixtures/includes/menu-item.ejs', 420, 438 ]
+262 silly gunzTarPerm extractEntry test/fixtures/includes/menu/item.ejs
+263 silly gunzTarPerm modified mode [ 'test/fixtures/includes/menu/item.ejs', 420, 438 ]
+264 silly gunzTarPerm extractEntry lib/ejs.js
+265 silly gunzTarPerm modified mode [ 'lib/ejs.js', 420, 438 ]
+266 silly gunzTarPerm extractEntry lib/utils.js
+267 silly gunzTarPerm modified mode [ 'lib/utils.js', 420, 438 ]
+268 verbose write writing to E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs\package.json
+269 info preinstall ejs@2.4.1
+270 verbose readDependencies loading dependencies from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs\package.json
+271 verbose readDependencies loading dependencies from E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs\package.json
+272 silly install resolved []
+273 verbose about to build E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+274 info build E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+275 info linkStuff ejs@2.4.1
+276 silly linkStuff ejs@2.4.1 has E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules as its parent node_modules
+277 verbose linkBins ejs@2.4.1
+278 verbose linkMans ejs@2.4.1
+279 verbose rebuildBundles ejs@2.4.1
+280 info install ejs@2.4.1
+281 info postinstall ejs@2.4.1
+282 verbose unlock done using C:\Users\SPEED\AppData\Roaming\npm-cache\_locks\ejs-73497fd56acaf664.lock for E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\node_modules\ejs
+283 verbose validateInstall loading E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService\package.json for validation
+284 verbose stack Error: The package bluebird@3.3.5 does not satisfy its siblings' peerDependencies requirements!
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\install.js:125:32
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\install.js:268:7
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+284 verbose stack     at cb (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+284 verbose stack     at cb (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+284 verbose stack     at cb (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+284 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+285 verbose cwd E:\Work\Workspace\NodeEclipseProjects\RESTfulWebService
+286 error Windows_NT 6.3.9600
+287 error argv "C:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "ejs"
+288 error node v4.4.1
+289 error npm  v2.14.20
+290 error code EPEERINVALID
+291 error peerinvalid The package bluebird@3.3.5 does not satisfy its siblings' peerDependencies requirements!
+291 error peerinvalid Peer mongoose-bluebird-utils@0.0.11 wants bluebird@^2
+292 verbose exit [ 1, true ]
